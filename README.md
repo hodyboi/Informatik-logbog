@@ -17,12 +17,19 @@ __Indholds liste__
 #### __I dette emne skulle man som gruppe undersøge og analysere systemdesignet for en Tello-drone__
 
 ## Sikkhed og Privathed 25-09-2020 til 06-01-2021
+#### __I dette emne skulle lære om sikkerhed i It-systemer__
+
 
 ## Programming 25-09-2020 til 02-10-2020
+#### __I dette emne skulle__ 
+
 
 ## Project Dronecontroller 02-10-2020 til 11-01-2021
+#### __I dette emne skulle man som gruppe Lave en drone-controller til en tello drone__
 
 ## Webtek 04-11-2020 til 04-11-2020
+#### __I dette emne skulle jeg__
+
 
 ## Logbog en altid kørende process
 
