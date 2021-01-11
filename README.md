@@ -2,12 +2,12 @@
 Dette er en logbog over alle de emner vi har haft i INFORMATIK C.
 
 __Indholds liste__
-* [3D tegning/Makeraktiviteter](#3D_tegning/Makeraktiviteter)
-* [Systemdesign](#Systemdesign)
-* [Sikkhed og Privathed](#Sikkhed_og_Privathed)
-* [Programming](#Programming)
-* [Project Dronecontroller](#Project_Dronecontroller)
-* [Webtek](#Webtek)
+* [3D tegning/Makeraktiviteter](#3d-tegningmakeraktiviteter-18-09-2020)
+* [Systemdesign](#systemdesign-21-09-2020)
+* [Sikkhed og Privathed](#sikkhed-og-privathed-25-09-2020-til-06-01-2021)
+* [Programming](#programming-25-09-2020-til-02-10-2020)
+* [Project Dronecontroller](#project-dronecontroller-02-10-2020-til-11-01-2021)
+* [Webtek](#webtek-04-11-2020-til-04-11-2020)
 
 *This text will be italic*
 _This will also be italic_
