@@ -11,8 +11,10 @@ __Indholds liste__
 
 
 ## 3D tegning/Makeraktiviteter 18-09-2020
+#### __I dette emne skulle jeg lave en step by step guide over hvordan jeg tegner 3D figurer og derefter printe dem i virkeligheden.__
 
 ## Systemdesign 21-09-2020
+#### __I dette emne skulle man som gruppe undersøge og analysere systemdesignet for en Tello-drone__
 
 ## Sikkhed og Privathed 25-09-2020 til 06-01-2021
 
