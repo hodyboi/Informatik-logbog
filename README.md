@@ -13,6 +13,10 @@ __Indholds liste__
 ## 3D tegning/Makeraktiviteter _18-09-2020_
 #### __I dette emne skulle jeg lave en step by step guide over hvordan jeg tegner 3D figurer og derefter printe dem i virkeligheden.__
 
+<img src="https://www.pngkey.com/png/full/695-6951264_3d-ball-png.png" alt="alt text" width="100" height="100">
+
+<img src="https://caddesignhelp.com/wp-content/uploads/2018/07/hollow-ball-3D-print.jpg" alt="alt text" width="100" height="130">
+
 
 ## Systemdesign _21-09-2020_
 #### __I dette emne skulle man som gruppe undersøge og analysere systemdesignet for en Tello-drone__
